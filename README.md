@@ -11,8 +11,6 @@
 Check out my freelance work [HERE](https://dinoburic.webflow.io/) <br>
 [Basic React projects](https://github.com/dinoburic/ReactProjects)
 
-Contact me:
-![174857](https://github.com/user-attachments/assets/0c5bf51f-da25-4fbd-ae5b-f6fbac2d0371)
 
 
 
