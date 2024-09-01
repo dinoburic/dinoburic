@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi 👋
+I'm Dino, 
+-Freelance Web Developer experienced in React, HTML, CSS, JS, WordPress, and Webflow;
+-Software Engineer pursuing a degree at the Faculty of Information Technologies Mostar. 
+
 
 <!--
 **dinoburic/dinoburic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
