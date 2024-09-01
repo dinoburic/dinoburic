@@ -7,6 +7,7 @@
 
 # 🏆Accomplishments
 **FIRST** place on FIT Coding challenge 2024 for SpineWise - a smart chair that monitors your spine health using ML - [SpineWise repository](https://github.com/ArminDjidelija/fitcc24-spinewise)
+
 **FIRST** place at the Innovation Nation program with [Rekboo](https://github.com/dinoburic/RekbooApp)
 
 # 🔗Portfolio
