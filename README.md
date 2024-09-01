@@ -1,7 +1,16 @@
-## Hi 👋
-I'm Dino, 
--Freelance Web Developer experienced in React, HTML, CSS, JS, WordPress, and Webflow;
--Software Engineer pursuing a degree at the Faculty of Information Technologies Mostar. 
+## 👋Hi, I'm Dino,
+-**Freelance Web Developer** experienced in **React**, **HTML**, **CSS**, **JS**, **WordPress**, and **Webflow**;
+-**Software** **Engineer** pursuing a degree at the Faculty of Information Technologies Mostar.
+-Passionate about **startups**, innovation, and making a real impact. 🌍
+
+# 🏆Accomplishments
+**FIRST** place on FIT Coding challenge 2024 for SpineWise - a smart chair that monitors your spine health using ML - [SpineWise repository](https://github.com/ArminDjidelija/fitcc24-spinewise)
+**FIRST** place at the Innovation Nation program with [Rekboo](https://github.com/dinoburic/RekbooApp)
+
+# 🔗Portfolio
+Check out my freelance work [HERE](https://dinoburic.webflow.io/)
+
+
 
 
 <!--
