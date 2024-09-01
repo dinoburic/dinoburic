@@ -5,7 +5,7 @@
 
 ## 🏆Accomplishments
 **FIRST** place on FIT Coding challenge 2024 for [SpineWise](https://github.com/ArminDjidelija/fitcc24-spinewise) <br>
-**FIRST** place at the Innovation Nation program with [Rekboo](https://github.com/dinoburic/RekbooApp)
+**THIRD** place at the Innovation Nation 2022 program with [Rekboo](https://github.com/dinoburic/RekbooApp)
 
 ## 🔗Portfolio
 Check out my freelance work [HERE](https://dinoburic.webflow.io/) <br>
