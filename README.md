@@ -12,9 +12,7 @@ Check out my freelance work [HERE](https://dinoburic.webflow.io/) <br>
 [Basic React projects](https://github.com/dinoburic/ReactProjects)
 
 Contact me:
-![174857]([https://github.com/user-attachments/assets/24813856-c8f5-4c29-ae8b-0d9b6ef28fdc](https://www.linkedin.com/in/dino-buric-8335b4254/))
-
-
+![174857](https://github.com/user-attachments/assets/0c5bf51f-da25-4fbd-ae5b-f6fbac2d0371)
 
 
 
