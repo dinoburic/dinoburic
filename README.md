@@ -4,6 +4,7 @@
 -Passionate about **startups**, innovation, and making a worldwide impact. 🌍
 
 ## 🏆Accomplishments
+**Dean's award** for Academic excellence 2023/24
 **FIRST** place at FIT Coding challenge 2024 for [SpineWise](https://github.com/ArminDjidelija/fitcc24-spinewise) <br>
 **THIRD** place in the Innovation Nation 2022 program with [Rekboo](https://github.com/dinoburic/RekbooApp)
 
