@@ -1,7 +1,7 @@
 ## 👋Hi, I'm Dino,
 -**Freelance Web Developer** experienced in **React**, **HTML**, **CSS**, **JS**, **WordPress**, and **Webflow**; <br>
 -**Software** **Engineer** pursuing a degree at the Faculty of Information Technologies Mostar. <br>
--Passionate about **startups**, innovation, and making a worldwide impact. 🌍
+-Passionate about **machine learning, startups**, innovation, and making a worldwide impact. 🌍
 
 ## 🏆Accomplishments
 **Dean's award** for Academic excellence 2023/24 <br>
