@@ -6,7 +6,7 @@
 ## 🏆Accomplishments
 **Dean's award** for Academic excellence 2023/24 <br>
 **FIRST** place at FIT Coding challenge 2024 for [SpineWise](https://github.com/ArminDjidelija/fitcc24-spinewise) <br>
-**SECOND** place in the MindTech Hackathon 2025 with [Thera](https://github.com/dinoburic/thera) <br>
+**SECOND** place on the MindTech Hackathon 2025 with [Thera](https://github.com/dinoburic/thera) <br>
 **THIRD** place in the Innovation Nation 2022 program with [Rekboo](https://github.com/dinoburic/RekbooApp)
 
 ## 🔗Portfolio
