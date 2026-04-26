@@ -1,5 +1,5 @@
 ## 👋Hi, I'm Dino,
--**Freelance Web Developer** experienced in **React**, **HTML**, **CSS**, **JS**, **WordPress**, and **Webflow**; <br>
+-**Freelance Web Developer** experienced in **Angular**, **React**, **HTML**, **CSS**, **JS**, **WordPress**, and **Webflow**; <br>
 -**Software** **Engineer** pursuing a degree at the Faculty of Information Technologies Mostar. <br>
 -Passionate about **machine learning, startups**, innovation, and making a worldwide impact. 🌍
 
