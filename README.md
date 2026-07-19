@@ -2,7 +2,7 @@
 
 # Hi, I'm Dino 👋
 
-**Software Engineer** · **Freelance Web Developer** · Building AI & full-stack products
+**AI Software Engineer** · **Freelance Web Developer** · Building AI & full-stack products
 
 </div>
 
