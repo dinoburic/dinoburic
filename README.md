@@ -2,7 +2,7 @@
 
 # Hi, I'm Dino 👋
 
-**AI Software Engineer** · **Freelance Web Developer** · Building AI & full-stack products
+**AI Software Engineer** · Building AI & full-stack products
 
 </div>
 
@@ -10,8 +10,8 @@
 
 ### About me
 
-- 💻 **Freelance Web Developer** experienced in Angular, React, HTML, CSS, JS, WordPress, and Webflow
-- 🎓 **Software Engineer** pursuing a degree at the Faculty of Information Technologies, University "Džemal Bijedić" in Mostar
+- 💻 **AI Engineer** at Zendev Nordic, working with ICA Sweden
+- 🎓 **Master's Student** at the Faculty of Electrical Engineering, University of Sarajevo
 - 🤖 Passionate about **machine learning, startups, and innovation** — building products that make a real, worldwide impact 🌍
 
 ---
